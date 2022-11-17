@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{445BDA69-96BC-4A50-B2A7-09ED70C4C487}") = "LibAdbDotnet", "LibAdbDotnet\LibAdbDotnet.csproj", "{127FACAC-FE06-40FD-B108-671D2FDDBC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127FACAC-FE06-40FD-B108-671D2FDDBC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127FACAC-FE06-40FD-B108-671D2FDDBC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127FACAC-FE06-40FD-B108-671D2FDDBC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127FACAC-FE06-40FD-B108-671D2FDDBC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A27503-174D-4C7F-9205-36F1A7D0ED1E}
+	EndGlobalSection
+EndGlobal

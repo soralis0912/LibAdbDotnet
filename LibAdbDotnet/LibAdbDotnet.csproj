@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <Authors>soralis0912</Authors>
+    <Company />
+    <Copyright>
+    Copyright 2020 (C) mashed-potatoes
+    Copyright 2022 (C) soralis0912
+    </Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LibUsbDotNet" Version="2.2.29" />
+  </ItemGroup>
+
+</Project>
