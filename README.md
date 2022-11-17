@@ -1,4 +1,8 @@
-# Potato.Fastboot
+# LibAdbDotnet
+fork from [Potato.Fastboot](https://github.com/mashed-potatoes/Potato.Fastboot)
+
+thanks [@mashed-potatoes](https://github.com/mashed-potatoes)
+
 [![Build Status](https://travis-ci.org/mashed-potatoes/Potato.Fastboot.svg?branch=master)](https://travis-ci.org/mashed-potatoes/Potato.Fastboot)
 [![NuGet Version](https://img.shields.io/nuget/v/Potato.Fastboot.svg)](https://www.nuget.org/packages/Potato.Fastboot)
 [![Nuget](https://img.shields.io/nuget/dt/Potato.Fastboot)](https://www.nuget.org/packages/Potato.Fastboot)
